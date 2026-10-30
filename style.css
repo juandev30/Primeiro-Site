@@ -1,0 +1,30 @@
+
+header {
+    display: flex;
+    align-items: center;
+    gap: 600px;
+    padding: 10px;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    gap: 25px;
+}
+
+nav a {
+    color: blue;
+    font-size: 18px;
+}
+:root {
+    --laranja: #E8590C;
+    --carvao: #1F1B18;
+    --pao: #FFF4E6;
+    --cheddar: #FCC419;
+    --texto: #3B3532;
+}
+
+.logo {
+    width: 100px;
+    height: auto;
+}
